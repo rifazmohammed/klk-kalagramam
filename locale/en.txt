@@ -1,0 +1,31 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = K. G. Subrahmanian Kalagramam, Kannur
+
+## Skin
+
+### Multiline Text
+HTMLText_CEC04DF3_E7BA_9D44_41A4_9092FAF126F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Times Roman';">{{title}}</SPAN></SPAN></DIV></div>
+HTMLText_CEC04DF3_E7BA_9D44_41A4_9092FAF126F2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Times Roman';">{{title}}</SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_316B4BA3_3BE7_F313_41A4_86CA562FCB34.label = K. G. Subrahmanian Kalagramam, Kannur
+panorama_3246C999_3BE7_DF3F_41B1_4185967A1E60.label = K. G. Subrahmanian Kalagramam, Kannur
+panorama_32785FCC_3BE6_5315_41C6_6DC9C45B354F.label = K. G. Subrahmanian Kalagramam, Kannur
+panorama_32786860_3BE7_BD0E_41C8_113957D2B9F5.label = K. G. Subrahmanian Kalagramam, Kannur
+panorama_32789338_3BE6_B37D_41C7_1407A387093B.label = K. G. Subrahmanian Kalagramam, Kannur
+panorama_32789AB7_3BE6_DD73_41CC_C15B4CAE439B.label =  
+panorama_3278CEDF_3BE6_B533_41BE_DB511D8BCF28.label = K. G. Subrahmanian Kalagramam, Kannur
+panorama_32798427_3BE6_5513_41A5_31F183FDD736.label = K. G. Subrahmanian Kalagramam, Kannur
+panorama_32798BC8_3BE6_731D_41CA_5D0CF736930C.label = K. G. Subrahmanian Kalagramam, Kannur
